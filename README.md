@@ -61,6 +61,14 @@ Output:
 
 ---
 
+## 📥 Pretrained Model
+
+This library includes the pretrained MesoNet model (`mesonet_model.h5`) for deepfake detection.
+
+📁 You can also find and download this model separately from its own repository here:  
+🔗 [mesonet-trained-model (GitHub Repo)](https://github.com/muffin-123/mesonet-trained-model)
+
+---
 ## 🏗️ How It Works
 
 * The model is a CNN trained using the Meso-4 architecture.
